@@ -63,7 +63,8 @@ body {
 
 .reveal section img { 
   float: right; 
-  margin: 15px 50px; 
+  margin: 15px 50px;
+  height: 500px;
 }
 
 .reveal ol, .reveal dl, .reveal ul { display:inherit; }
