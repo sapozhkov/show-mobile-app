@@ -59,3 +59,7 @@ body {
 
 .gp-download { margin-left: 10px; }
 
+.b-mobile { float: right; }
+
+.reveal ol, .reveal dl, .reveal ul { display:inherit; }
+
