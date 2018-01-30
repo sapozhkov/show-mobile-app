@@ -61,5 +61,7 @@ body {
 
 .b-mobile { float: right; }
 
+section p img { float: right; }
+
 .reveal ol, .reveal dl, .reveal ul { display:inherit; }
 
